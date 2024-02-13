@@ -4,7 +4,7 @@
 *  - pip install virtualenv
 *  - virtualenv envname
 *  - envname\scripts\activate
-* 3 - cd into project "cd django-2021"
+* 3 - cd into project "cd Dev_Search"
 * 4 - pip install -r requirements.txt
 * 5 - python manage.py runserver
 
