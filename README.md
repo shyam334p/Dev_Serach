@@ -1,5 +1,5 @@
 # Installation
-* 1 - clone repo https://github.com/divanov11/Django-2021
+* 1 - clone repo 
 * 2 - create a virtual environment and activate
 *  - pip install virtualenv
 *  - virtualenv envname
